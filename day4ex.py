@@ -20,8 +20,8 @@ print(a)
 
 a=[12,13,23,25,32,11,10]
 a.sort()
-print("Largest item of the list is" a[-1])   #FINDING THE LARGEST ITEM OF THE LIST
-print("Largest item of the list is" a[0])    #FINDING THE SMALLEST ITEM OF THE LIST
+print("Largest item of the list is", a[-1])   #FINDING THE LARGEST ITEM OF THE LIST
+print("Smallest item of the list is", a[0])    #FINDING THE SMALLEST ITEM OF THE LIST
 
 
 
