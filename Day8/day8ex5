@@ -1,0 +1,8 @@
+#WHERE TRY-EXCEPT IS NOT REQUIRED:
+
+Basically in try-except:
+
+#The try block lets you test a block of code for errors.
+#The except block lets you handle the error.
+
+When we dont require to check or validate a code, we ned not use tr-except.
