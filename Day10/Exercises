@@ -1,0 +1,8 @@
+#EXERCISES
+
+Write a Python program for all the cases which can check a string contains only a certain set of characters (in this case a-z, A-Z and 0-9).
+Write a Python program that matches a word containing 'ab'.
+Write a Python program to check for a number at the end of a word/sentence.
+Write a Python program to search the numbers (0-9) of length between 1 to 3 in a given string
+Write a Python program to match a string that contains only uppercase letters
+
